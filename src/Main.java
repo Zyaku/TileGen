@@ -8,7 +8,7 @@ public class Main extends Application {
 	private final double tileSize = 64;
 	private final double errorAcceptance = 0.01;
 	private final String title = "Tile Generator";
-	private final String directory = "Base";
+	private final String directory = "Advanced";
 	
 	@Override
 	public void start(Stage primaryStage) throws Exception {

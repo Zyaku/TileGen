@@ -15,5 +15,6 @@ What Tile Gen does:
 - A generated tile can be clicked again to cycle between all possible tiles
 - If there is only one possible tile, nothing will change
 
-
+![TileGen - Advanced](https://user-images.githubusercontent.com/88546942/129581451-406a37b5-4a18-437f-a466-943acd1a0912.gif)
+![TileGen - Base](https://user-images.githubusercontent.com/88546942/129581455-ca7c0fff-060d-4d8c-8faa-47555ad35296.gif)
 
